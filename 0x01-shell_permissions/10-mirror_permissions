@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod references/’olleh hello
+chmod hello references\'olleh
